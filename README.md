@@ -2,7 +2,7 @@
 By SpacerMT
 Coded by Calder Young (laxdude1)
 
-[![pages-build-deployment](https://github.com/catfoolyou/Five-Nights-At-Winstons/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/catfoolyou/Five-Nights-At-Winstons/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/catfoolyou/Five-Nights-At-Winstons/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/catfoolyou/Five-Nights-At-Winstons/actions/workflows/pages/pages-build-deployment) source code here as well! Please play the original game
 
 The closest thing you can get to a caseoh web fan game. All credit goes to Lax1dude (Calder Young) for making the original game code,
 Originally from [g.eags.us](https://g.deev.is/fnaw/) or [g.lax1dude.net](https://g.lax1dude.net/fnaw/), this is just a mirror because the original site was blocked.
